@@ -18,4 +18,4 @@ To get started, follow these high-level steps:
 
 ## Detailed Instructions
 
-For a step-by-step guide, refer to the PDF included in this repository: [Project Guide PDF](./path/to/your/pdf-file.pdf).
+For a step-by-step guide, refer to the PDF included in this repository.
